@@ -1,4 +1,4 @@
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # React Review:
 - Reduce function <br/>
@@ -7,7 +7,7 @@ https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoCol
 - Review useEffect <br/>
 
 <center>
-![](../schema-code-app-la-maison-de-la-jungle.png)
+![<SCHEMA-CODE>](../schema-code-app-la-maison-de-la-jungle.png)
 </center>
 # Getting Started with Create React App
 
