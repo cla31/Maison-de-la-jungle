@@ -6,9 +6,9 @@
 - useState ( how to share the state between components) <br/>
 - Review useEffect <br/>
 
-<center>
-![<SCHEMA-CODE>](../schema-code-app-la-maison-de-la-jungle.png)
-</center>
+
+![SCHEMA-CODE](../schema-code-app-la-maison-de-la-jungle.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
